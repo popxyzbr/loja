@@ -1,0 +1,1 @@
+console.log("popxyzbr Storage carregado com sucesso.");
